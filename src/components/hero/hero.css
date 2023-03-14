@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+.top{
+    text-align: center;
+}
+
+
+.top h1{
+    font-family:Roboto, sans-serif ;
+  font-size: 5rem;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.top h3{
+    font-size: 2.5rem;
+    font-family: Roboto Flex, sans-serif;
+    margin-bottom: 0;;
+}
+
+.top p{
+    display: block;
+    width: 500px;
+    margin:0 auto;
+    padding-top: 20px;
+    font-weight: 700;
+    color: rgb(178, 178, 178);
+}
+
+.system_found {
+    background-color: beige;
+    border-radius: 2%;
+    color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    margin-top: 8rem;
+    /* align-items: center; */
+}
+
+.super {
+    padding-left: 30px;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.super h5{
+    color: rgb(78, 4, 226);
+    padding-top: 6%;
+    
+}
+.img1 {
+    display: flex;
+    align-items: center;
+    margin-top: -2%;
+}
+.img1 h1 {
+    width: 35%;
+}
+.super button{
+    background-color:rgb(78, 4, 226);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.super button:hover{
+    transform: scale(1.1)
+}
+
+.super p{
+    width: 500px;
+}
+
+.super p span{
+    color: rgb(144, 144, 250);
+}
+
+.effic{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+}
+
+.effic i{
+    color: rgb(111, 58, 255);
+}
+
+.task{
+    margin-left: 15px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flex p{
+    color: rgb(58, 57, 56);
+}
+.imgs img{
+    height: 100%;
+    width: 50%;
+  position: absolute;
+  top: 80%;
+  left: 30%;
+ 
+    
+}
+.system-two{
+    background-color: beige;
+    border-radius: 2%;
+    color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    margin-top: 8rem;
+    align-items: center;
+   
+}
+.overall-img{
+    position: relative;
+}
+
+.pipeline button{
+    background-color: rgb(56, 155, 236);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.pipeline button:hover{
+    transform: scale(1.1);  
+}
+
+
+
+
+.system_three{
+    background-color: beige;
+    border-radius: 2%;
+    color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    margin-top: 8rem;
+}
+.automate{
+    padding-left: 30px;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.automate h5{
+    color: rgb(255, 40, 241);
+    padding-top: 6%;
+    
+}
+
+.automate p{
+    width: 500px;
+}
+
+.automate p span{
+    color: rgb(255, 40, 241);;
+}
+
+.automate button{
+background-color:rgb(255, 40, 241);
+border-radius: 5px;
+border: none;
+color: white;
+width: 300px;
+height: 50px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
+}
+
+.automate button:hover{
+    transform: scale(1.1)
+}
+
+.effis{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+}
+
+.effis i{
+   color:  rgb(255, 40, 241);
+}
+
+.small-img{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.imgs{
+    display: flex;
+    gap: 40px;
+    margin-left: 150px;
+}
